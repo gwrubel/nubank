@@ -197,6 +197,6 @@ Este projeto foi desenvolvido para fins acadêmicos e educacionais.
 ---
 
 <div align="center">
-  <p>Desenvolvido com ❤️ usando Flutter</p>
+  <p>Desenvolvido usando Flutter</p>
   <p><strong>Nubank Clone</strong> - Interface Mobile</p>
 </div>
